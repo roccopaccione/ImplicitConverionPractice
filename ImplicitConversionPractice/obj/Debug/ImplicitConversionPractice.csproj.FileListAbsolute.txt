@@ -1,0 +1,2 @@
+/Users/roccopaccione/Projects/ImplicitConversionPractice/ImplicitConversionPractice/obj/Debug/ImplicitConversionPractice.csprojAssemblyReference.cache
+/Users/roccopaccione/Projects/ImplicitConversionPractice/ImplicitConversionPractice/obj/Debug/ImplicitConversionPractice.csproj.CoreCompileInputs.cache

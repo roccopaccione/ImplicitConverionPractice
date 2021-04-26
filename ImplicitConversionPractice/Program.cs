@@ -6,7 +6,9 @@ namespace ImplicitConversionPractice
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            float myFloatValue = 10;
+            int myIntValue = myFloatValue;
+            Console.WriteLine("myIntValue is " + myIntValue);
         }
     }
 }
