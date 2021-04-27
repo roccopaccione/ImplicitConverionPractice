@@ -9,6 +9,9 @@ namespace ImplicitConversionPractice
             float myFloatValue = 10;
             int myIntValue = (int) myFloatValue;
             Console.WriteLine("myIntValue is " + myIntValue);
+
+            string myAge = "23";
+            int myNum = (int)myAge;
         }
     }
 }
